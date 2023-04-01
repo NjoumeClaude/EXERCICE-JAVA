@@ -1,4 +1,9 @@
-liste présence du premier cours JAVA
+# Cours de Java Niveau 1
+
+liste présence du premier cours JAVA et de la presentation generale.
+
+Ceci est un test de collaboration.
+
 1-Andreas
 2-Manuelo
 3-Claude
